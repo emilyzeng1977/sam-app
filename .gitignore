@@ -67,6 +67,8 @@ Temporary Items
 
 .idea/**
 
+.aws-sam/**
+
 # CMake
 cmake-build-debug/
 
